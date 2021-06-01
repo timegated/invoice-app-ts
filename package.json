@@ -1,5 +1,5 @@
 {
-  "name": "invoice-app-ts",
+  "name": "invoice-app",
   "version": "1.0.0",
   "description": "An invoice app created with react and typescript",
   "main": "index.js",

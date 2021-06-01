@@ -1,7 +1,7 @@
 import React, {useState} from 'react'
 
 
-const List: React.FC = () => {
+const List = () => {
   const [listItems, setListItems] = useState([
     {
     id: '1',

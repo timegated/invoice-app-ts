@@ -1,7 +1,7 @@
 import React from 'react';
 import List from '../components/list';
 
-const Home: React.FC = () => {
+const Home = () => {
   return (
     <div>
       <h1>Welcome to the Invoice App</h1>
